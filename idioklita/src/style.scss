@@ -1,3 +1,11 @@
+h1{
+  text-align: center;
+}
+
+h3{
+  text-align: center;
+}
+
 h4{
   text-align: center;
 }
@@ -6,6 +14,16 @@ body{
   background-color: #48B8D0;
   color: #ffff;
   font-family: Arial, Helvetica, sans-serif;
+}
+
+.center {
+  margin: auto;
+  width: 40%;
+  padding: 10px;
+}
+
+input{
+  font-size: 15px;
 }
 
 button{
@@ -19,6 +37,7 @@ button{
 
 div{
   display: inline-block;
+  text-align: center;
 }
 
 table, td, th {  
