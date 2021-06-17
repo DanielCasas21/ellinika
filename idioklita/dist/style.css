@@ -1,14 +1,32 @@
-h4 {
+h1{
   text-align: center;
 }
 
-body {
+h3{
+  text-align: center;
+}
+
+h4{
+  text-align: center;
+}
+
+body{
   background-color: #48B8D0;
   color: #ffff;
   font-family: Arial, Helvetica, sans-serif;
 }
 
-button {
+.center {
+  margin: auto;
+  width: 40%;
+  padding: 10px;
+}
+
+input{
+  font-size: 15px;
+}
+
+button{
   font-family: Arial, Helvetica, sans-serif;
   font-size: 15px;
   text-align: center;
@@ -17,17 +35,18 @@ button {
   padding: 2px 15px;
 }
 
-div {
+div{
   display: inline-block;
+  text-align: center;
 }
 
-table, td, th {
+table, td, th {  
   border: 3px solid #ffff;
   text-align: left;
   background-color: #29a2ba;
 }
 
-td.estilo {
+td.estilo{
   background-color: #008198;
 }
 
@@ -39,7 +58,7 @@ th, td {
   padding: 15px;
 }
 
-caption {
+caption{
   background-color: #29a2ba;
   border: 3px solid #ffff;
   border-collapse: collapse;
