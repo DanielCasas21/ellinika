@@ -1,7 +1,7 @@
 var verbs = ["γράψιμο", "βάψιμο", "τρέξιμο", "ντύσιμο", "κρέας", "γάλα", "δόρυ", "γεγονός", "καθεστώς", "συμβάν", "παν", "σύμπαν", "φως", "δάκρυ", "βράδυ", "μηδέν", "φωνήεν", "πρωί", "οξύ"];
 
 var ousiastiko = {ellinika:"γράψιμο", english:"writing."};
-var ousiastiko1 = {ellinika:"βάψιμο", english:"baptism."};
+var ousiastiko1 = {ellinika:"βάψιμο", english:"painting (walls)."};
 var ousiastiko2 = {ellinika:"τρέξιμο", english:"running. Η αγαπημένη μας λέξη!"};
 var ousiastiko3 = {ellinika:"ντύσιμο", english:"formal suit."};
 var ousiastiko4 = {ellinika:"κρέας", english:"meat."};
